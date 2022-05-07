@@ -44,7 +44,10 @@ public class DadesProductes {
 "AHAVA DERMUD CREMA COLZES I GENOLLS 75 ml.",
 "AHAVA DERMUD CREMA CORPORAL 200 ML.",
 "AHAVA DERMUD CREMA MANS 125 ML",
-"AHAVA DERMUD CREMA NUTRITIVA 50 ML"};
+"AHAVA DERMUD CREMA NUTRITIVA 50 ML"
+    
+ "AGIOCUR Granulat 550g"//He añadido otro prodcuto al proyecto (javier Orduña)
+         };
 
 
   
